@@ -3,9 +3,14 @@
 Simple Example Blog with Django
 
 ## Create Virtual Environment
+
 ```
     $ python3 -m venv myvenv
-    $ source myvenv/bin/activate  
+```
+## Start up Environment
+
+```
+    $ source myvenv/bin/activate
 ```
 ## Install Django
 
@@ -17,4 +22,10 @@ Simple Example Blog with Django
 
 ```
     $ python manage.py createsuperuser
+```
+
+## Getting Fixtures
+
+```
+    $ python manage.py loaddata data.json 
 ```
