@@ -1,11 +1,13 @@
 # DjangoBlog
 
+[![Build Status](https://travis-ci.org/Tony133/DjangoBlog.svg?branch=master)](https://travis-ci.org/Tony133/DjangoBlog)
+
 Simple Example Blog with Django
 
 ## Create Virtual Environment
 
 ```
-    $ python3 -m venv myvenv
+    $ python -m venv myvenv
 ```
 ## Start up Environment
 
