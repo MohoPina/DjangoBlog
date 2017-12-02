@@ -7,7 +7,7 @@ Simple Example Blog with Django
 ## Create Virtual Environment
 
 ```
-    $ python -m venv myvenv
+    $ python -m venv myvenv or python3 -m venv myvenv
 ```
 ## Start up Environment
 
