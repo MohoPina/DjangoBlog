@@ -20,6 +20,12 @@ Simple Example Blog with Django
     $ pip install django
 ```
 
+## Getting Migrate Table on database
+
+```
+    $ python manage.py migrate
+```
+
 ## Create SuperUser for Admin
 
 ```
@@ -30,4 +36,9 @@ Simple Example Blog with Django
 
 ```
     $ python manage.py loaddata data.json 
+```
+
+## Run App
+```
+    $ python manage.py runserver
 ```
