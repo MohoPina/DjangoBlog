@@ -17,7 +17,7 @@ Simple Example Blog with Django
 ## Install Django
 
 ```
-    $ pip install django
+    $ pip install django==1.11
 ```
 
 ## Getting Migrate Table on database
