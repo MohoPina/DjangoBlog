@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Tony133/DjangoBlog.svg?branch=master)](https://travis-ci.org/Tony133/DjangoBlog)
 
-Simple Example Blog with Django
+Simple Example Blog with Django 1.11 LTS
 
 ## Create Virtual Environment
 
