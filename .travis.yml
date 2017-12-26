@@ -4,7 +4,7 @@ python:
   - "3.6"
   
 env:
-  -DJANGO=1.11
+  - DJANGO=1.11
 
 install:
   - pip install django==$DJANGO
@@ -13,4 +13,3 @@ install:
 
 script: 
   - python manage.py test
-
